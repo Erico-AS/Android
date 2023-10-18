@@ -1,0 +1,59 @@
+{
+    "dadosAluno": [
+        {
+            "disciplina":"Android",
+            "nome":"Lionel Messi",
+            "turma":"3d1",
+            "turno":"manha"
+        },
+
+        {
+             "disciplina":"Mat",
+             "nome":"Lionel Jessie",
+             "turma":"3d1",
+             "turno":"manha"
+        },
+
+        {
+             "disciplina":"Pot",
+             "nome":"Lionel VanPersie",
+             "turma":"3d1",
+             "turno":"manha"
+        },
+
+        {
+            "disciplina":"Cie",
+            "nome":"Lionel Aquessi",
+            "turma":"3d1",
+            "turno":"manha"
+        },
+
+        {
+             "disciplina":"Qui",
+             "nome":"Lionel Pepsi",
+             "turma":"3d1",
+             "turno":"manha"
+        },
+
+        {
+             "disciplina":"IOS",
+             "nome":"Lionel Pessi",
+             "turma":"3d1",
+             "turno":"manha"
+        },
+
+        {
+             "disciplina":"Qui",
+             "nome":"Lionel Lexie",
+             "turma":"3d1",
+             "turno":"manha"
+        },
+
+        {
+             "disciplina":"PIT",
+             "nome":"Lionel Antece",
+             "turma":"3d1",
+             "turno":"manha"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "times" : [
+          {
+            "Nome": "Real Madrid",
+            "Cidade": "Madrid",
+            "Estádio": "Estadio Santiago Bernabéu",
+            "Fundação": "6 de março de 1902"
+          },
+
+          {
+            "Nome": "FC Barcelona",
+            "Cidade": "Barcelona",
+            "Estádio": "Camp Nou",
+            "Fundação": "29 de novembro de 1899"
+          },
+
+          {
+            "Nome": "Atlético Madrid",
+            "Cidade": "Madrid",
+            "Estádio": "Wanda Metropolitano",
+            "Fundação": "26 de abril de 1903"
+          },
+
+          {
+            "Nome": "Sevilla FC",
+            "Cidade": "Sevilha",
+            "Estádio": "Estadio Ramón Sánchez-Pizjuán",
+            "Fundação": "25 de janeiro de 1890"
+          },
+
+          {
+            "Nome": "Valencia CF",
+            "Cidade": "Valência",
+            "Estádio": "Estadio Mestalla",
+            "Fundação": "18 de março de 1919"
+          },
+
+          {
+            "Nome": "Real Sociedad",
+            "Cidade": "San Sebastián",
+            "Estádio": "Estadio Anoeta",
+            "Fundação": "7 de setembro de 1909"
+          },
+
+          {
+            "Nome": "Villarreal CF",
+            "Cidade": "Vila-real",
+            "Estádio": "Estadio de la Cerámica",
+            "Fundação": "10 de março de 1923"
+          },
+
+          {
+            "Nome": "Athletic Bilbao",
+            "Cidade": "Bilbao",
+            "Estádio": "Estadio San Mamés",
+            "Fundação": "23 de agosto de 1898"
+          },
+
+          {
+             "Nome": "Real Betis",
+             "Cidade": "Sevilha",
+             "Estádio": "Estadio Benito Villamarín",
+             "Fundação": "12 de setembro de 1907"
+           }
+    ]
+}
